@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Marina</h1>
-<h3 align="center">Computer science student</h3>
+<h3 align="center">Computer science student</h3>(https://user-images.githubusercontent.com/106764809/212477992-ceb2da7d-1461-452d-a967-a6f4b6db57f7.png)
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marinashustrova&label=Profile%20views&color=0e75b6&style=flat" alt="marinashustrova" /> </p>
