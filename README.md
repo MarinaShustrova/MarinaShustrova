@@ -1,17 +1,20 @@
-<h1 align="center">Hi 👋, I'm Marina</h1>
-<h3 align="center">Computer science student</h3>
-![Greeting]()
+<!-- <h1 align="center">Hi 👋, I'm Marina</h1>
+<h3 align="center">Computer science student</h3> -->
+![Greeting](![Alt text](header.png))
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marinashustrova&label=Profile%20views&color=0e75b6&style=flat" alt="marinashustrova" /> </p>
 
 - 🌱 I’m currently learning **Type Script,React,Docker**
 
-- 💬 Ask me about **JS,Express,**
+- 💬 Ask me about **JS,Express**
+
+- ⚡ Fun fact: I have three cats:)
 
 - 📫 How to reach me **shustrova.marina.work@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://t.me/TihonMoskvin" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" alt="@MarinaShustrova" height="40" width="40" /></a>
 <a href="https://linkedin.com/in/marina shustrova" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marina shustrova" height="30" width="40" /></a>
 <a href="https://instagram.com/marinashstrv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="marinashstrv" height="30" width="40" /></a>
 </p>
