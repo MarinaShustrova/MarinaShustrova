@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marinashustrova&label=Profile%20views&color=0e75b6&style=flat" alt="marinashustrova" /> </p>
 
-- 🌱 I’m currently learning **Type Script,React,Docker**
+- 🌱 I’m currently learning **Type Script,React,Redux**
 
 - 💬 Ask me about **JS,Express**
 
@@ -33,4 +33,4 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=MarinaShustrova&theme=green_nur&hide_border=true&border_radius=4.8)](https://git.io/streak-stats)
 
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
+
