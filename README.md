@@ -9,8 +9,8 @@
   '🌐 Full-Stack JS  Developer',
   "💛 In Love with JavaScript",
   '🤓 Love coding every day',
-  '✨ I try to keep my code clean and understandable'
-  "🎉 Open to all messages"
+  '✨ I try to keep my code clean and understandable',
+  "🎉 Open to all messages",
   '📫 How to reach me **shustrova.marina.work@gmail.com**'
 ].forEach((e) => { console.log(e) });
 ```
@@ -21,7 +21,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://t.me/MarinaShustrova" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" alt="@MarinaShustrova" height="40" width="40" /></a>
-<a href="linkedin.com/in/marina-shustrova-bb44a3254" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marina shustrova" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/marina-shustrova-bb44a3254/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marina shustrova" height="30" width="40" /></a>
 <a href="https://instagram.com/marinashstrv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="marinashstrv" height="30" width="40" /></a>
 </p>
 
