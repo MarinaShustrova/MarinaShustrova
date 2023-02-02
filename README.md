@@ -75,6 +75,8 @@
 <br>
 
 
+<b> :fire: My Stats : </b> <br>
+<br>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=MarinaShustrova&theme=green_nur&hide_border=true&border_radius=4.8)](https://git.io/streak-stats)
 
