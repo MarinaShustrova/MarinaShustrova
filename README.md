@@ -2,7 +2,7 @@
 <div align="center">
   <h1>
     <a href="https://github.com/MarinaShustrova">
-      <h1> Hello, I am Marina:) </h1>
+      <h2 style='color: green'> Hello, I am Marina:) </h2>
       <img src="https://images.unsplash.com/photo-1526040652367-ac003a0475fe?auto=format&fit=crop&q=80&w=1770&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D">
     </a>
   </h1>
@@ -73,7 +73,7 @@ Thank you for visiting my profile. I'm glad you're here! 🎉
 <div align="center">
   <p align="center">
   <a href="https://github.com/MarinaShustrova?tab=repositories">
-    <img src="https://skillicons.dev/icons?i=css,html,js" />
+    <img src="https://skillicons.dev/icons?i=css,html,js,ts,react" />
   </a>
 </p>
 </div>
