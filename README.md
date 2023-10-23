@@ -2,6 +2,7 @@
 <div align="center">
   <h1>
     <a href="https://github.com/MarinaShustrova">
+      <h1> Hello, I am Marina:) </h1>
       <img src="https://images.unsplash.com/photo-1526040652367-ac003a0475fe?auto=format&fit=crop&q=80&w=1770&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D">
     </a>
   </h1>
@@ -76,7 +77,7 @@ Thank you for visiting my profile. I'm glad you're here! 🎉
 <div align="center">
   <p align="center">
   <a href="https://github.com/MarinaShustrova?tab=repositories">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,py,css,html,js,php" />
+    <img src="https://skillicons.dev/icons?i=css,html,js" />
   </a>
 </p>
 </div>
@@ -99,28 +100,8 @@ Thank you for visiting my profile. I'm glad you're here! 🎉
 
 ## **Connect with me:**
 
-<div align="center">
-  <p align="center">
-  <a href="https://github.com/MarinaShustrova">
-    <img src="https://img.shields.io/badge/Socialmedia:-orange" />
-  </a>
-</p>
-</div>
 
-<p align="center">
-  <a href="https://www.instagram.com/marisstrv">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
-</p>
 
-<p align="center">
-    <a href="marinashustrovawork@gmail.com">
-        <img src="Email.png" alt="Email">
-    </a>
-    <a href="https://www.linkedin.com/in/MarinaShustrova/">
-        <img src="LikedIn.png" alt="LinkedIn">
-    </a>
-</p>
 
 
 
