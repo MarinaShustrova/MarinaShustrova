@@ -9,18 +9,7 @@
     </a>
   </h1>
 </div>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=dawidolko&label=Profile%20views&color=0e75b6&style=flat" alt="dawidolko" /> </p>
 
-<p align="center">
-  <a href="https://github.com/sponsors/dawidolko" style="font-size: 24px;">
-    <img src="https://img.shields.io/badge/Sponsor-SUPPORT-ff69b4?logo=github-sponsors&logoColor=white&style=for-the-badge" width="250" height="50">
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/sponsors/dawidolko">
-    <img src="ai3.jpg" alt="Portret" width="600">
-  </a>
-</p>
 
 <p align="center">
 I am a computer science student with a passion for technology, programming, and artificial intelligence. 🧠
@@ -57,22 +46,16 @@ Thank you for visiting my profile. I'm glad you're here! 🎉
   </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dawidolko&langs_count=8&theme=great-gatsby" alt="Language stats.">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarinaShustrova&langs_count=8&theme=great-gatsby" alt="Language stats.">
 </div>
 
 <div align="center">
-  <a href="https://github.com/dawidolko">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=dawidolko&theme=rising-sun&hide_border=true&exclude_days=Sun" />
+  <a href="https://github.com/MarinaShustrova">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=MarinaShustrova&theme=rising-sun&hide_border=true&exclude_days=Sun" />
   </a>
   
 </div>
   
-<div align="center">
-  <a href="https://github.com/dawidolko">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dawidolko&theme=slateorange" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dawidolko&theme=slateorange" />
-  </a>
-</div>
 
 ## **Skills & Technologies:**
 
