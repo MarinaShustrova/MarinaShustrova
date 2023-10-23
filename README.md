@@ -2,7 +2,7 @@
 <div align="center">
   <h1>
     <a href="https://github.com/MarinaShustrova">
-      <h2 style='color: green'> Hello, I am Marina:) </h2>
+      <h2 style='color:green'> Hello, I am Marina!</h2>
       <img src="https://images.unsplash.com/photo-1526040652367-ac003a0475fe?auto=format&fit=crop&q=80&w=1770&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D">
     </a>
   </h1>
@@ -16,20 +16,10 @@ I am a passionate frontend developer. 🧠
 I am always hungry for new knowledge and strive to explore the latest trends and tools that help me create innovative solutions. 💻
 </p>
 <p align="center">
-My passion for artificial intelligence goes beyond my studies - I aim to understand its various aspects and how it can be applied to solve real-world problems.
-</p>
-
-<p align="center">
 On my GitHub, you will find various projects related to programming and artificial intelligence that showcase my growth and learning in these areas. 
 </p>
 <p align="center">
-With each project, I aim to learn something new and enhance my skills.
-</p>
-<p align="center">
-Feel free to explore my projects and reach out to me if you have any questions or would like to discuss potential collaboration opportunities.
-</p>
-<p align="center">
-Thank you for visiting my profile. I'm glad you're here! 🎉
+Thank you for visiting my profile. 🎉
 </p>
  
 ## **My profile stats here:**
@@ -73,7 +63,7 @@ Thank you for visiting my profile. I'm glad you're here! 🎉
 <div align="center">
   <p align="center">
   <a href="https://github.com/MarinaShustrova?tab=repositories">
-    <img src="https://skillicons.dev/icons?i=css,html,js,ts,react" />
+    <img src="https://skillicons.dev/icons?i=css,html,js,ts,react,redux,node,vue,express,next,vite,postgress,tailwind" />
   </a>
 </p>
 </div>
@@ -89,7 +79,7 @@ Thank you for visiting my profile. I'm glad you're here! 🎉
 <div align="center">
   <p align="center">
   <a href="https://github.com/MarinaShustrova?tab=repositories">
-    <img src="https://skillicons.dev/icons?i=git,visualstudio,vscode,idea" /> 
+    <img src="https://skillicons.dev/icons?i=git,visualstudio,github" /> 
   </a>
 </p>
 </div>
