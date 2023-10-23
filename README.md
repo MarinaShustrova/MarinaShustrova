@@ -54,11 +54,7 @@ Thank you for visiting my profile. I'm glad you're here! 🎉
 
 ## **Skills & Technologies:**
 
-<div align="center">
-  <p align="center">
-    <img src="https://count.getloli.com/get/@MarinaShustrova.github.readme" width="200"/>
-  </p>
-</div>
+
 
 <div align="center">
   <p align="center">
