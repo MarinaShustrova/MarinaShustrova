@@ -16,8 +16,7 @@ I am a passionate frontend developer. 🧠
 I am always hungry for new knowledge and strive to explore the latest trends and tools that help me create innovative solutions. 💻
 </p>
 <p align="center">
-On my GitHub, you will find various projects related to programming and artificial intelligence that showcase my growth and learning in these areas. 
-</p>
+On my GitHub, you will find various projects.
 <p align="center">
 Thank you for visiting my profile. 🎉
 </p>
@@ -63,7 +62,7 @@ Thank you for visiting my profile. 🎉
 <div align="center">
   <p align="center">
   <a href="https://github.com/MarinaShustrova?tab=repositories">
-    <img src="https://skillicons.dev/icons?i=css,html,js,ts,react,redux,node,vue,express,next,vite,postgress,tailwind" />
+    <img src="https://skillicons.dev/icons?i=css,html,js,ts,react,redux,nodejs,vue,express,next,vite,sass,tailwind,gulp,webpack,npm" />
   </a>
 </p>
 </div>
