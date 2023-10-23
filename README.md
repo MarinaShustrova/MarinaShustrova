@@ -124,26 +124,20 @@ Thank you for visiting my profile. I'm glad you're here! 🎉
 
 <div align="center">
   <p align="center">
-  <a href="https://github.com/dawidolko">
+  <a href="https://github.com/MarinaShustrova">
     <img src="https://img.shields.io/badge/Socialmedia:-orange" />
   </a>
 </p>
 </div>
 
 <p align="center">
-  <a href="https://twitter.com/dawidolko">
-    <img src="https://skillicons.dev/icons?i=twitter" />
-  </a>
-    <a href="https://stackoverflow.com/users/22248754/dawid-olko">
-    <img src="https://skillicons.dev/icons?i=stackoverflow" />
-  </a>
-  <a href="https://www.instagram.com/dawid_olko">
+  <a href="https://www.instagram.com/marisstrv">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 </p>
 
 <p align="center">
-    <a href="mailto:poczta@dawidolko.pl">
+    <a href="marinashustrovawork@gmail.com">
         <img src="Email.png" alt="Email">
     </a>
     <a href="https://www.linkedin.com/in/dawidolko/">
@@ -162,21 +156,6 @@ Thank you for visiting my profile. I'm glad you're here! 🎉
   </p>
 </div>
 
-<p align="center"> 
-  Visitors :<br>
-  <img src="https://profile-counter.glitch.me/dawidolko-dev/count.svg" />
-</p>
 
-<p align="center">
-  <img src="eesa.gif">
-</p>
-
-<p align="center">
-  <img src="gitartwork.svg">
-</p>
-
-<p align="center">
-  <img src="assets/Bottom_down.svg">
-</p>
 
 
