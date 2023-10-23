@@ -50,8 +50,8 @@ Thank you for visiting my profile. I'm glad you're here! 🎉
 ## **My profile stats here:**
 
 <div align="center">
-  <a href="https://github.com/dawidolko">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dawidolko&theme=slateorange" />
+  <a href="https://github.com/MarinaShustrova">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarinaShustrova&theme=slateorange" />
   </a>
   
   </div>
