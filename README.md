@@ -1,18 +1,15 @@
 
-<p align="center">
-  <img src="assets/Bottom_up.svg">
-</p>
 <div align="center">
   <h1>
     <a href="https://github.com/MarinaShustrova">
-      <img src="https://images.unsplash.com/photo-1687603921109-46401b201195?auto=format&fit=crop&q=80&w=1770&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D">
+      <img src="https://images.unsplash.com/photo-1526040652367-ac003a0475fe?auto=format&fit=crop&q=80&w=1770&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D">
     </a>
   </h1>
 </div>
 
 
 <p align="center">
-I am a computer science student with a passion for technology, programming, and artificial intelligence. 🧠
+I am a passionate frontend developer. 🧠
 </p>
 <p align="center">
 I am always hungry for new knowledge and strive to explore the latest trends and tools that help me create innovative solutions. 💻
@@ -20,9 +17,7 @@ I am always hungry for new knowledge and strive to explore the latest trends and
 <p align="center">
 My passion for artificial intelligence goes beyond my studies - I aim to understand its various aspects and how it can be applied to solve real-world problems.
 </p>
-<p align="center">
-I believe that the future of technology lies in the hands of AI, and I am excited to be a part of that future.
-</p>
+
 <p align="center">
 On my GitHub, you will find various projects related to programming and artificial intelligence that showcase my growth and learning in these areas. 
 </p>
@@ -42,7 +37,6 @@ Thank you for visiting my profile. I'm glad you're here! 🎉
   <a href="https://github.com/MarinaShustrova">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarinaShustrova&theme=slateorange" />
   </a>
-  
   </div>
 
 <div align="center">
@@ -61,7 +55,7 @@ Thank you for visiting my profile. I'm glad you're here! 🎉
 
 <div align="center">
   <p align="center">
-    <img src="https://count.getloli.com/get/@dawidolko.github.readme" width="200"/>
+    <img src="https://count.getloli.com/get/@MarinaShustrova.github.readme" width="200"/>
   </p>
 </div>
 
@@ -73,7 +67,7 @@ Thank you for visiting my profile. I'm glad you're here! 🎉
 
 <div align="center">
   <p align="center">
-  <a href="https://github.com/dawidolko">
+  <a href="https://github.com/MarinaShustrova">
     <img src="https://img.shields.io/badge/Languages:-orange" />
   </a>
 </p>
@@ -81,7 +75,7 @@ Thank you for visiting my profile. I'm glad you're here! 🎉
 
 <div align="center">
   <p align="center">
-  <a href="https://github.com/dawidolko?tab=repositories">
+  <a href="https://github.com/MarinaShustrova?tab=repositories">
     <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,py,css,html,js,php" />
   </a>
 </p>
@@ -89,7 +83,7 @@ Thank you for visiting my profile. I'm glad you're here! 🎉
 
 <div align="center">
   <p align="center">
-  <a href="https://github.com/dawidolko">
+  <a href="https://github.com/MarinaShustrova">
     <img src="https://img.shields.io/badge/Development:-orange" />
   </a>
 </p>
@@ -97,7 +91,7 @@ Thank you for visiting my profile. I'm glad you're here! 🎉
 
 <div align="center">
   <p align="center">
-  <a href="https://github.com/dawidolko?tab=repositories">
+  <a href="https://github.com/MarinaShustrova?tab=repositories">
     <img src="https://skillicons.dev/icons?i=git,visualstudio,vscode,idea" /> 
   </a>
 </p>
@@ -123,21 +117,11 @@ Thank you for visiting my profile. I'm glad you're here! 🎉
     <a href="marinashustrovawork@gmail.com">
         <img src="Email.png" alt="Email">
     </a>
-    <a href="https://www.linkedin.com/in/dawidolko/">
+    <a href="https://www.linkedin.com/in/MarinaShustrova/">
         <img src="LikedIn.png" alt="LinkedIn">
     </a>
 </p>
-<div align="center">
-  <p align="center">
-  <div> 
-    <a href="https://discord.com" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-    <a href="https://www.linkedin.com/in/dawidolko/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a href = "mailto:poczta@dawidolko.pl"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a> 
-    <a href="https://instagram.com/dawid_olko" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href="https://www.youtube.com/dawio" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  </div>
-  </p>
-</div>
+
 
 
 
